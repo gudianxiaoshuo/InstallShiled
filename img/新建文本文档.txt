@@ -1,0 +1,3 @@
+C:\Program Files (x86)\InstallShield\2013LE\Support\Themes\InstallShield Blue Theme
+
+默认主题位置，将图片替换过去
