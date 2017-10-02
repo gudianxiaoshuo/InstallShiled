@@ -341,16 +341,16 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>Component.exe</td><td>{04FB25C4-DE6E-4CF2-9BA6-2264D0CFD199}</td><td>DIRECTORY5</td><td>2</td><td/><td>File.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td>{E53BA1FE-5EE2-474A-8E57-F8CB4B7701C7}</td><td>CONTROL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{716F239C-1E96-4D41-9210-AB333CEAB852}</td><td>GUANGGAO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Component.exe1</td><td>{7DB498B3-5946-4188-9D74-B319D5B9FE36}</td><td>DIRECTORY5</td><td>2</td><td/><td>File.exe1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td>{83D46ABF-A64C-404D-AB43-B14430466D66}</td><td>CONTROL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{61E806D3-4734-4614-9802-ED70D4E33E2A}</td><td>GUANGGAO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT10</td><td>{F7D71498-37AB-4ADE-A90F-E0E2FD962797}</td><td>HOMEPAGE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT12</td><td>{1750E100-6984-4865-8722-CB29EF83A3D3}</td><td>DIRECTORY5</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{AB5BEAE5-8B23-41A2-B35C-43840D961861}</td><td>IMG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{59350075-970F-4DFE-993C-983E56A8945D}</td><td>BUTTON</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{6691ECAD-AF5B-4025-85A9-77EB81E5F0D0}</td><td>_</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{FF545B8C-BA3A-44D7-A87D-E146D889BEC3}</td><td>DYNAMIC</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{EEF919CB-5F34-4F52-B991-44F41F56B880}</td><td>TEXTBG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{FF9345E9-406F-438F-B4DE-09EE16515B31}</td><td>IMG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{C3A8F933-9F54-45E9-8391-24A083A3F3CB}</td><td>BUTTON</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{37E22204-5A0E-448D-B7DE-BD403836AC45}</td><td>_</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{95FD2D05-A632-4BE0-BB86-F40583F28596}</td><td>DYNAMIC</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{434D413C-CF99-451B-80F7-F4F98BC5ED21}</td><td>TEXTBG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{04302ACC-8ACC-4035-8CAC-358E67641F0D}</td><td>DIRECTORY2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{5ED5AEEC-5605-4967-A270-E9798EAF92B0}</td><td>DIRECTORY3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{E5337D26-C991-4B09-ACA8-C5A8EE83EBC8}</td><td>DIRECTORY4</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
@@ -358,8 +358,9 @@
 		<row><td>NewComponent2</td><td>{4BD561E1-FF85-424D-8FDE-7C305CFF2983}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>_345_kqq869321632_movie.exe</td><td>{C6AA2DBA-BE94-4364-923A-4F85B11EF36B}</td><td>HOMEPAGE</td><td>2</td><td/><td>_345_kqq869321632_movie.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>_345pic_kqq869321632.exe</td><td>{E5E8E437-F8E7-4A65-B926-A11F86A83B0F}</td><td>HOMEPAGE</td><td>2</td><td/><td>_345pic_kqq869321632.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>homePage.exe</td><td>{478D0242-36CB-46F5-8B27-E84CEA8FDA6B}</td><td>DIRECTORY5</td><td>2</td><td/><td>homepage.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>luping.exe</td><td>{ECAD1C69-AA2F-4A61-AA23-CC73B10E4EF2}</td><td>CONTROL</td><td>2</td><td/><td>luping.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>cc_kqq869321632_201066.exe</td><td>{BE2A2BC4-2447-41FC-B23A-3428D5E91E24}</td><td>HOMEPAGE</td><td>2</td><td/><td>cc_kqq869321632_201066.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>homePage.exe</td><td>{51583496-EE6E-4DC8-83BE-60DDF1FF414E}</td><td>DIRECTORY5</td><td>2</td><td/><td>homepage.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>luping.exe</td><td>{1B124759-F64D-43CD-8B49-5CA211D76083}</td><td>CONTROL</td><td>2</td><td/><td>luping.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1911,7 +1912,7 @@
 	<table name="FeatureComponents">
 		<col key="yes" def="s38">Feature_</col>
 		<col key="yes" def="s72">Component_</col>
-		<row><td>AlwaysInstall</td><td>Component.exe</td></row>
+		<row><td>AlwaysInstall</td><td>Component.exe1</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT10</td></row>
@@ -1928,6 +1929,7 @@
 		<row><td>AlwaysInstall</td><td>NewComponent2</td></row>
 		<row><td>AlwaysInstall</td><td>_345_kqq869321632_movie.exe</td></row>
 		<row><td>AlwaysInstall</td><td>_345pic_kqq869321632.exe</td></row>
+		<row><td>AlwaysInstall</td><td>cc_kqq869321632_201066.exe</td></row>
 		<row><td>AlwaysInstall</td><td>homePage.exe</td></row>
 		<row><td>AlwaysInstall</td><td>luping.exe</td></row>
 	</table>
@@ -1944,13 +1946,13 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>File.exe</td><td>Component.exe</td><td>任性动图.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\任性动图.exe</td><td>1</td><td/></row>
-		<row><td>_.jpg</td><td>ISX_DEFAULTCOMPONENT1</td><td>3.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guanggao\3.jpg</td><td>1</td><td/></row>
-		<row><td>_.jpg1</td><td>ISX_DEFAULTCOMPONENT6</td><td>2.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\2.jpg</td><td>1</td><td/></row>
-		<row><td>_.png</td><td>ISX_DEFAULTCOMPONENT1</td><td>0.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guanggao\0.png</td><td>1</td><td/></row>
-		<row><td>_.png1</td><td>ISX_DEFAULTCOMPONENT1</td><td>1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guanggao\1.png</td><td>1</td><td/></row>
-		<row><td>_.png10</td><td>ISX_DEFAULTCOMPONENT6</td><td>7.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\7.png</td><td>1</td><td/></row>
-		<row><td>_.png11</td><td>ISX_DEFAULTCOMPONENT6</td><td>8.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\8.png</td><td>1</td><td/></row>
+		<row><td>File.exe1</td><td>Component.exe1</td><td>任性动~1.EXE|任性动图v8.1.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\任性动图v8.1.exe</td><td>1</td><td/></row>
+		<row><td>_.jpg</td><td>ISX_DEFAULTCOMPONENT1</td><td>3.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guanggao\3.jpg</td><td>1</td><td/></row>
+		<row><td>_.jpg1</td><td>ISX_DEFAULTCOMPONENT6</td><td>2.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\2.jpg</td><td>1</td><td/></row>
+		<row><td>_.png</td><td>ISX_DEFAULTCOMPONENT1</td><td>0.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guanggao\0.png</td><td>1</td><td/></row>
+		<row><td>_.png1</td><td>ISX_DEFAULTCOMPONENT1</td><td>1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guanggao\1.png</td><td>1</td><td/></row>
+		<row><td>_.png10</td><td>ISX_DEFAULTCOMPONENT6</td><td>7.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\7.png</td><td>1</td><td/></row>
+		<row><td>_.png11</td><td>ISX_DEFAULTCOMPONENT6</td><td>8.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\8.png</td><td>1</td><td/></row>
 		<row><td>_.png12</td><td>ISX_DEFAULTCOMPONENT9</td><td>0.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\0.png</td><td>1</td><td/></row>
 		<row><td>_.png13</td><td>ISX_DEFAULTCOMPONENT9</td><td>1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\1.png</td><td>1</td><td/></row>
 		<row><td>_.png14</td><td>ISX_DEFAULTCOMPONENT9</td><td>2.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\2.png</td><td>1</td><td/></row>
@@ -1959,24 +1961,24 @@
 		<row><td>_.png17</td><td>ISX_DEFAULTCOMPONENT9</td><td>5.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\5.png</td><td>1</td><td/></row>
 		<row><td>_.png18</td><td>ISX_DEFAULTCOMPONENT9</td><td>6.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\6.png</td><td>1</td><td/></row>
 		<row><td>_.png19</td><td>ISX_DEFAULTCOMPONENT9</td><td>7.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\7.png</td><td>1</td><td/></row>
-		<row><td>_.png2</td><td>ISX_DEFAULTCOMPONENT1</td><td>2.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guanggao\2.png</td><td>1</td><td/></row>
+		<row><td>_.png2</td><td>ISX_DEFAULTCOMPONENT1</td><td>2.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guanggao\2.png</td><td>1</td><td/></row>
 		<row><td>_.png20</td><td>ISX_DEFAULTCOMPONENT9</td><td>8.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\8.png</td><td>1</td><td/></row>
 		<row><td>_.png21</td><td>ISX_DEFAULTCOMPONENT9</td><td>9.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\9.png</td><td>1</td><td/></row>
-		<row><td>_.png3</td><td>ISX_DEFAULTCOMPONENT6</td><td>0.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\0.png</td><td>1</td><td/></row>
-		<row><td>_.png4</td><td>ISX_DEFAULTCOMPONENT6</td><td>1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\1.png</td><td>1</td><td/></row>
-		<row><td>_.png5</td><td>ISX_DEFAULTCOMPONENT6</td><td>2.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\2.png</td><td>1</td><td/></row>
-		<row><td>_.png6</td><td>ISX_DEFAULTCOMPONENT6</td><td>3.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\3.png</td><td>1</td><td/></row>
-		<row><td>_.png7</td><td>ISX_DEFAULTCOMPONENT6</td><td>4.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\4.png</td><td>1</td><td/></row>
-		<row><td>_.png8</td><td>ISX_DEFAULTCOMPONENT6</td><td>5.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\5.png</td><td>1</td><td/></row>
-		<row><td>_.png9</td><td>ISX_DEFAULTCOMPONENT6</td><td>6.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg\6.png</td><td>1</td><td/></row>
-		<row><td>_0.gif</td><td>ISX_DEFAULTCOMPONENT5</td><td>10.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\dynamic\10.gif</td><td>1</td><td/></row>
-		<row><td>_0.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>30.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\30.png</td><td>1</td><td/></row>
-		<row><td>_0.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>40.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\40.png</td><td>1</td><td/></row>
+		<row><td>_.png3</td><td>ISX_DEFAULTCOMPONENT6</td><td>0.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\0.png</td><td>1</td><td/></row>
+		<row><td>_.png4</td><td>ISX_DEFAULTCOMPONENT6</td><td>1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\1.png</td><td>1</td><td/></row>
+		<row><td>_.png5</td><td>ISX_DEFAULTCOMPONENT6</td><td>2.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\2.png</td><td>1</td><td/></row>
+		<row><td>_.png6</td><td>ISX_DEFAULTCOMPONENT6</td><td>3.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\3.png</td><td>1</td><td/></row>
+		<row><td>_.png7</td><td>ISX_DEFAULTCOMPONENT6</td><td>4.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\4.png</td><td>1</td><td/></row>
+		<row><td>_.png8</td><td>ISX_DEFAULTCOMPONENT6</td><td>5.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\5.png</td><td>1</td><td/></row>
+		<row><td>_.png9</td><td>ISX_DEFAULTCOMPONENT6</td><td>6.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg\6.png</td><td>1</td><td/></row>
+		<row><td>_0.gif</td><td>ISX_DEFAULTCOMPONENT5</td><td>10.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\dynamic\10.gif</td><td>1</td><td/></row>
+		<row><td>_0.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>30.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\30.png</td><td>1</td><td/></row>
+		<row><td>_0.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>40.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\40.png</td><td>1</td><td/></row>
 		<row><td>_0.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>70.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\70.png</td><td>1</td><td/></row>
 		<row><td>_0.png11</td><td>ISX_DEFAULTCOMPONENT9</td><td>80.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\80.png</td><td>1</td><td/></row>
 		<row><td>_0.png12</td><td>ISX_DEFAULTCOMPONENT9</td><td>90.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\90.png</td><td>1</td><td/></row>
-		<row><td>_0.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>50.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\50.png</td><td>1</td><td/></row>
-		<row><td>_0.png3</td><td>ISX_DEFAULTCOMPONENT4</td><td>70.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\70.png</td><td>1</td><td/></row>
+		<row><td>_0.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>50.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\50.png</td><td>1</td><td/></row>
+		<row><td>_0.png3</td><td>ISX_DEFAULTCOMPONENT4</td><td>70.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\70.png</td><td>1</td><td/></row>
 		<row><td>_0.png4</td><td>ISX_DEFAULTCOMPONENT9</td><td>10.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\10.png</td><td>1</td><td/></row>
 		<row><td>_0.png5</td><td>ISX_DEFAULTCOMPONENT9</td><td>20.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\20.png</td><td>1</td><td/></row>
 		<row><td>_0.png6</td><td>ISX_DEFAULTCOMPONENT9</td><td>30.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\30.png</td><td>1</td><td/></row>
@@ -2093,11 +2095,11 @@
 		<row><td>_097.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1097.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1097.gif</td><td>1</td><td/></row>
 		<row><td>_098.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1098.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1098.gif</td><td>1</td><td/></row>
 		<row><td>_099.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1099.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1099.gif</td><td>1</td><td/></row>
-		<row><td>_1.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>41.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\41.png</td><td>1</td><td/></row>
-		<row><td>_1.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>51.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\51.png</td><td>1</td><td/></row>
+		<row><td>_1.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>41.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\41.png</td><td>1</td><td/></row>
+		<row><td>_1.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>51.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\51.png</td><td>1</td><td/></row>
 		<row><td>_1.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>81.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\81.png</td><td>1</td><td/></row>
 		<row><td>_1.png11</td><td>ISX_DEFAULTCOMPONENT9</td><td>91.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\91.png</td><td>1</td><td/></row>
-		<row><td>_1.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>61.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\61.png</td><td>1</td><td/></row>
+		<row><td>_1.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>61.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\61.png</td><td>1</td><td/></row>
 		<row><td>_1.png3</td><td>ISX_DEFAULTCOMPONENT9</td><td>11.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\11.png</td><td>1</td><td/></row>
 		<row><td>_1.png4</td><td>ISX_DEFAULTCOMPONENT9</td><td>21.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\21.png</td><td>1</td><td/></row>
 		<row><td>_1.png5</td><td>ISX_DEFAULTCOMPONENT9</td><td>31.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\31.png</td><td>1</td><td/></row>
@@ -2116,7 +2118,7 @@
 		<row><td>_107.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1107.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1107.gif</td><td>1</td><td/></row>
 		<row><td>_108.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1108.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1108.gif</td><td>1</td><td/></row>
 		<row><td>_109.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1109.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1109.gif</td><td>1</td><td/></row>
-		<row><td>_11.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>411.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\411.png</td><td>1</td><td/></row>
+		<row><td>_11.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>411.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\411.png</td><td>1</td><td/></row>
 		<row><td>_11.png1</td><td>ISX_DEFAULTCOMPONENT9</td><td>111.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\111.png</td><td>1</td><td/></row>
 		<row><td>_110.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1110.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1110.gif</td><td>1</td><td/></row>
 		<row><td>_111.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1111.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1111.gif</td><td>1</td><td/></row>
@@ -2192,7 +2194,7 @@
 		<row><td>_177.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1177.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1177.gif</td><td>1</td><td/></row>
 		<row><td>_178.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1178.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1178.gif</td><td>1</td><td/></row>
 		<row><td>_179.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1179.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1179.gif</td><td>1</td><td/></row>
-		<row><td>_18.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>418.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\418.png</td><td>1</td><td/></row>
+		<row><td>_18.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>418.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\418.png</td><td>1</td><td/></row>
 		<row><td>_180.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1180.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1180.gif</td><td>1</td><td/></row>
 		<row><td>_181.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1181.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1181.gif</td><td>1</td><td/></row>
 		<row><td>_182.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1182.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1182.gif</td><td>1</td><td/></row>
@@ -2213,9 +2215,9 @@
 		<row><td>_197.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1197.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1197.gif</td><td>1</td><td/></row>
 		<row><td>_198.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1198.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1198.gif</td><td>1</td><td/></row>
 		<row><td>_199.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1199.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1199.gif</td><td>1</td><td/></row>
-		<row><td>_1_1.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>51-1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\51-1.png</td><td>1</td><td/></row>
-		<row><td>_2.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>42.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\42.png</td><td>1</td><td/></row>
-		<row><td>_2.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>52.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\52.png</td><td>1</td><td/></row>
+		<row><td>_1_1.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>51-1.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\51-1.png</td><td>1</td><td/></row>
+		<row><td>_2.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>42.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\42.png</td><td>1</td><td/></row>
+		<row><td>_2.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>52.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\52.png</td><td>1</td><td/></row>
 		<row><td>_2.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>92.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\92.png</td><td>1</td><td/></row>
 		<row><td>_2.png2</td><td>ISX_DEFAULTCOMPONENT9</td><td>12.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\12.png</td><td>1</td><td/></row>
 		<row><td>_2.png3</td><td>ISX_DEFAULTCOMPONENT9</td><td>22.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\22.png</td><td>1</td><td/></row>
@@ -2245,7 +2247,7 @@
 		<row><td>_217.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1217.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1217.gif</td><td>1</td><td/></row>
 		<row><td>_218.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1218.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1218.gif</td><td>1</td><td/></row>
 		<row><td>_219.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1219.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1219.gif</td><td>1</td><td/></row>
-		<row><td>_22.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>422.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\422.png</td><td>1</td><td/></row>
+		<row><td>_22.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>422.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\422.png</td><td>1</td><td/></row>
 		<row><td>_220.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1220.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1220.gif</td><td>1</td><td/></row>
 		<row><td>_221.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1221.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1221.gif</td><td>1</td><td/></row>
 		<row><td>_222.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1222.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1222.gif</td><td>1</td><td/></row>
@@ -2264,12 +2266,12 @@
 		<row><td>_235.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1235.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1235.gif</td><td>1</td><td/></row>
 		<row><td>_236.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1236.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1236.gif</td><td>1</td><td/></row>
 		<row><td>_237.gif</td><td>ISX_DEFAULTCOMPONENT8</td><td>1237.gif</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\动态\1237.gif</td><td>1</td><td/></row>
-		<row><td>_28.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>428.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\428.png</td><td>1</td><td/></row>
-		<row><td>_3.png</td><td>ISX_DEFAULTCOMPONENT</td><td>23.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\23.png</td><td>1</td><td/></row>
-		<row><td>_3.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>43.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\43.png</td><td>1</td><td/></row>
+		<row><td>_28.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>428.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\428.png</td><td>1</td><td/></row>
+		<row><td>_3.png</td><td>ISX_DEFAULTCOMPONENT</td><td>23.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\23.png</td><td>1</td><td/></row>
+		<row><td>_3.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>43.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\43.png</td><td>1</td><td/></row>
 		<row><td>_3.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>83.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\83.png</td><td>1</td><td/></row>
 		<row><td>_3.png11</td><td>ISX_DEFAULTCOMPONENT9</td><td>93.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\93.png</td><td>1</td><td/></row>
-		<row><td>_3.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>53.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\53.png</td><td>1</td><td/></row>
+		<row><td>_3.png2</td><td>ISX_DEFAULTCOMPONENT4</td><td>53.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\53.png</td><td>1</td><td/></row>
 		<row><td>_3.png3</td><td>ISX_DEFAULTCOMPONENT9</td><td>13.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\13.png</td><td>1</td><td/></row>
 		<row><td>_3.png4</td><td>ISX_DEFAULTCOMPONENT9</td><td>23.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\23.png</td><td>1</td><td/></row>
 		<row><td>_3.png5</td><td>ISX_DEFAULTCOMPONENT9</td><td>33.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\33.png</td><td>1</td><td/></row>
@@ -2279,8 +2281,8 @@
 		<row><td>_3.png9</td><td>ISX_DEFAULTCOMPONENT9</td><td>73.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\73.png</td><td>1</td><td/></row>
 		<row><td>_345_kqq869321632_movie.exe</td><td>_345_kqq869321632_movie.exe</td><td>2345_K~1.EXE|2345_kqq869321632_movie.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\homePage\homePage\2345_kqq869321632_movie.exe</td><td>1</td><td/></row>
 		<row><td>_345pic_kqq869321632.exe</td><td>_345pic_kqq869321632.exe</td><td>2345PI~1.EXE|2345pic_kqq869321632.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\homePage\homePage\2345pic_kqq869321632.exe</td><td>1</td><td/></row>
-		<row><td>_4.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>44.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\44.png</td><td>1</td><td/></row>
-		<row><td>_4.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>54.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\54.png</td><td>1</td><td/></row>
+		<row><td>_4.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>44.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\44.png</td><td>1</td><td/></row>
+		<row><td>_4.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>54.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\54.png</td><td>1</td><td/></row>
 		<row><td>_4.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>94.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\94.png</td><td>1</td><td/></row>
 		<row><td>_4.png2</td><td>ISX_DEFAULTCOMPONENT9</td><td>14.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\14.png</td><td>1</td><td/></row>
 		<row><td>_4.png3</td><td>ISX_DEFAULTCOMPONENT9</td><td>24.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\24.png</td><td>1</td><td/></row>
@@ -2290,8 +2292,8 @@
 		<row><td>_4.png7</td><td>ISX_DEFAULTCOMPONENT9</td><td>64.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\64.png</td><td>1</td><td/></row>
 		<row><td>_4.png8</td><td>ISX_DEFAULTCOMPONENT9</td><td>74.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\74.png</td><td>1</td><td/></row>
 		<row><td>_4.png9</td><td>ISX_DEFAULTCOMPONENT9</td><td>84.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\84.png</td><td>1</td><td/></row>
-		<row><td>_5.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>45.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\45.png</td><td>1</td><td/></row>
-		<row><td>_5.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>55.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\Button\0\55.png</td><td>1</td><td/></row>
+		<row><td>_5.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>45.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\45.png</td><td>1</td><td/></row>
+		<row><td>_5.png1</td><td>ISX_DEFAULTCOMPONENT4</td><td>55.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\Button\0\55.png</td><td>1</td><td/></row>
 		<row><td>_5.png10</td><td>ISX_DEFAULTCOMPONENT9</td><td>95.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\95.png</td><td>1</td><td/></row>
 		<row><td>_5.png2</td><td>ISX_DEFAULTCOMPONENT9</td><td>15.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\15.png</td><td>1</td><td/></row>
 		<row><td>_5.png3</td><td>ISX_DEFAULTCOMPONENT9</td><td>25.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\25.png</td><td>1</td><td/></row>
@@ -2337,30 +2339,33 @@
 		<row><td>_9.png6</td><td>ISX_DEFAULTCOMPONENT9</td><td>79.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\79.png</td><td>1</td><td/></row>
 		<row><td>_9.png7</td><td>ISX_DEFAULTCOMPONENT9</td><td>89.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\89.png</td><td>1</td><td/></row>
 		<row><td>_9.png8</td><td>ISX_DEFAULTCOMPONENT9</td><td>99.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\素材\文本\99.png</td><td>1</td><td/></row>
-		<row><td>color.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>Color.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\Color.xml</td><td>1</td><td/></row>
-		<row><td>count.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>count.txt</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\count.txt</td><td>1</td><td/></row>
-		<row><td>daohang.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>daohang.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\daohang.xml</td><td>1</td><td/></row>
-		<row><td>editdlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>EditDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\EditDlg.xml</td><td>1</td><td/></row>
-		<row><td>frequent.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>frequent.txt</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\frequent.txt</td><td>1</td><td/></row>
-		<row><td>guanggao.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>guanggao.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guanggao.xml</td><td>1</td><td/></row>
-		<row><td>guidedlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>guideDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\guideDlg.xml</td><td>1</td><td/></row>
-		<row><td>heka.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>heka.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\heka.xml</td><td>1</td><td/></row>
+		<row><td>cc_kqq869321632_201066.exe</td><td>cc_kqq869321632_201066.exe</td><td>CC_KQQ~1.EXE|cc_kqq869321632_201066.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\homePage\homePage\cc_kqq869321632_201066.exe</td><td>1</td><td/></row>
+		<row><td>color.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>Color.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\Color.xml</td><td>1</td><td/></row>
+		<row><td>count.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>count.txt</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\count.txt</td><td>1</td><td/></row>
+		<row><td>daohang.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>daohang.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\daohang.xml</td><td>1</td><td/></row>
+		<row><td>editdlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>EditDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\EditDlg.xml</td><td>1</td><td/></row>
+		<row><td>frequent.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>frequent.txt</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\frequent.txt</td><td>1</td><td/></row>
+		<row><td>guanggao.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>guanggao.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guanggao.xml</td><td>1</td><td/></row>
+		<row><td>guidedlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>guideDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\guideDlg.xml</td><td>1</td><td/></row>
+		<row><td>heka.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>heka.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\heka.xml</td><td>1</td><td/></row>
 		<row><td>homepage.exe</td><td>homePage.exe</td><td>homePage.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\homePage\homePage.exe</td><td>1</td><td/></row>
-		<row><td>luping.exe</td><td>luping.exe</td><td>luping.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\luping.exe</td><td>1</td><td/></row>
-		<row><td>luping.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>luping.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\luping.xml</td><td>1</td><td/></row>
-		<row><td>moredlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>moreDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\moreDlg.xml</td><td>1</td><td/></row>
-		<row><td>msg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>msg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\msg.xml</td><td>1</td><td/></row>
-		<row><td>note.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>note.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\note.xml</td><td>1</td><td/></row>
-		<row><td>path1.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path1.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\path1.xml</td><td>1</td><td/></row>
-		<row><td>path2.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path2.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\path2.xml</td><td>1</td><td/></row>
-		<row><td>path3.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path3.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\path3.xml</td><td>1</td><td/></row>
-		<row><td>path4.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path4.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\path4.xml</td><td>1</td><td/></row>
-		<row><td>preset.ini</td><td>ISX_DEFAULTCOMPONENT</td><td>preSet.ini</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\preSet.ini</td><td>1</td><td/></row>
-		<row><td>read.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>read.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\read.xml</td><td>1</td><td/></row>
-		<row><td>textbg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>textBg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\textBg.xml</td><td>1</td><td/></row>
-		<row><td>topmenu.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>topmenu.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\topmenu.xml</td><td>1</td><td/></row>
-		<row><td>weixindashang.jpg</td><td>ISX_DEFAULTCOMPONENT2</td><td>WEIXIN~1.JPG|weixindashang.JPG</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\IMG\weixindashang.JPG</td><td>1</td><td/></row>
-		<row><td>write.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>write.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\HomePage\任性动图\control\write.xml</td><td>1</td><td/></row>
+		<row><td>luping.exe</td><td>luping.exe</td><td>luping.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\luping.exe</td><td>1</td><td/></row>
+		<row><td>luping.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>luping.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\luping.xml</td><td>1</td><td/></row>
+		<row><td>moredlg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>moreDlg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\moreDlg.xml</td><td>1</td><td/></row>
+		<row><td>msg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>msg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\msg.xml</td><td>1</td><td/></row>
+		<row><td>note.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>note.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\note.xml</td><td>1</td><td/></row>
+		<row><td>path1.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path1.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\path1.xml</td><td>1</td><td/></row>
+		<row><td>path2.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path2.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\path2.xml</td><td>1</td><td/></row>
+		<row><td>path3.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path3.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\path3.xml</td><td>1</td><td/></row>
+		<row><td>path4.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>path4.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\path4.xml</td><td>1</td><td/></row>
+		<row><td>preset.ini</td><td>ISX_DEFAULTCOMPONENT</td><td>preSet.ini</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\preSet.ini</td><td>1</td><td/></row>
+		<row><td>read.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>read.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\read.xml</td><td>1</td><td/></row>
+		<row><td>reg1.ini</td><td>ISX_DEFAULTCOMPONENT</td><td>Reg1.ini</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\Reg1.ini</td><td>1</td><td/></row>
+		<row><td>shuiyin.png</td><td>ISX_DEFAULTCOMPONENT2</td><td>shuiyin.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\shuiyin.png</td><td>1</td><td/></row>
+		<row><td>textbg.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>textBg.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\textBg.xml</td><td>1</td><td/></row>
+		<row><td>topmenu.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>topmenu.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\topmenu.xml</td><td>1</td><td/></row>
+		<row><td>weixindashang.jpg</td><td>ISX_DEFAULTCOMPONENT2</td><td>WEIXIN~1.JPG|weixindashang.JPG</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\IMG\weixindashang.JPG</td><td>1</td><td/></row>
+		<row><td>write.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>write.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\control\write.xml</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2504,16 +2509,16 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>Component.exe</td><td/><td/><td>_CA8E239A_EDBD_45ED_BF2B_D0BA48AB3CD8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_0E79B17C_FF7B_4376_A74D_3A7E7811FA83_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_97FF932C_0C8C_4716_AE8D_880212B8D643_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Component.exe1</td><td/><td/><td>_3739A22B_1AFB_4D50_91D2_976F55EA9D8C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_A7DE27A7_7CE8_4145_AFAA_AC528A186BD1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_32450B97_0E2E_4220_9561_2D7445C1C1F9_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT10</td><td/><td/><td>_095FE4C9_AF0E_4E62_B02C_F73AA1B00AA0_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT12</td><td/><td/><td>_FC00C48C_03FA_4E49_B717_8118D03BD413_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_E273E0EA_75FF_4796_BEB4_1AD7A5F77329_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_F6635965_E7BF_43F8_B35C_964D22FF95C4_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_884A192E_0D99_4AA4_813B_876B60234A2F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_68DFC156_8499_4122_8BF0_063E946B8581_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_EA8F20EA_62B1_4B1B_A97F_CDE19E531BEE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_BAAE53D3_0D86_4ED8_A443_E326A3CFFDA9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_85CB851F_F54C_4F21_9064_5458BDE9B193_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_7D39F908_C891_4816_86A6_4655DD17D78D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_A0155924_3BF7_4F4E_A6F3_94C51114D5AF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_BB75F9D5_1985_4D03_A8B6_2B39E90C205D_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_5EA3F959_0B6B_45F4_9F06_137176E4EA89_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_4C67669F_7E00_4FAD_934C_F72D8D884A79_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_273B89FD_A6A0_4B33_B825_AE7508460E63_FILTER</td><td/><td/><td/><td/></row>
@@ -2521,8 +2526,9 @@
 		<row><td>NewComponent2</td><td/><td/><td>_83B19038_F188_45EE_8050_A102AB58B87E_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>_345_kqq869321632_movie.exe</td><td/><td/><td>_3DF1538C_AE8C_47CA_8F28_1BA204A72073_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>_345pic_kqq869321632.exe</td><td/><td/><td>_BF0F61F0_791C_4CAA_B728_7E6CE380EF2D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>homePage.exe</td><td/><td/><td>_E32650E8_C5E4_495B_BCB4_8844B966467D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>luping.exe</td><td/><td/><td>_46CE3357_D6B1_4F22_A1CD_B8CAA868AA96_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>cc_kqq869321632_201066.exe</td><td/><td/><td>_E37944E1_2C0A_4D6E_BF66_D92EE37EC20B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>homePage.exe</td><td/><td/><td>_52CE9B93_4B06_47A7_BED8_FF526D0A2145_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>luping.exe</td><td/><td/><td>_66F6885B_FEDC_4238_A005_54DF0A95034F_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -3978,6 +3984,8 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME20</td><td>2052</td><td>任性动图V8.0.exe</td><td>0</td><td/><td>-458940053</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME21</td><td>1033</td><td/><td>0</td><td/><td>-458942068</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME21</td><td>2052</td><td>任性动图.exe</td><td>0</td><td/><td>-458915444</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME22</td><td>1033</td><td/><td>0</td><td/><td>354754034</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME22</td><td>2052</td><td>任性动图v8.1.exe</td><td>0</td><td/><td>354764274</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td/><td>0</td><td/><td>-458913558</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>2052</td><td>任性动图V8.0.exe</td><td>0</td><td/><td>-458905366</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td/><td>0</td><td/><td>-458928886</td></row>
@@ -4281,7 +4289,9 @@
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>2052</td><td>对于运行 [ProductName] 内存量不足。</td><td>0</td><td/><td>-1130000848</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>2052</td><td>对于运行 [ProductName] 屏幕分辨率不足。</td><td>0</td><td/><td>-1130000848</td></row>
 		<row><td>ID_STRING1</td><td>2052</td><td/><td>0</td><td/><td>-1130000848</td></row>
-		<row><td>ID_STRING2</td><td>2052</td><td>http://www.古典小说网.com</td><td>0</td><td/><td>-458906097</td></row>
+		<row><td>ID_STRING10</td><td>1033</td><td>任性动图v8.1.exe</td><td>0</td><td/><td>354782706</td></row>
+		<row><td>ID_STRING10</td><td>2052</td><td>任性动图v8.1.exe</td><td>0</td><td/><td>354782706</td></row>
+		<row><td>ID_STRING2</td><td>2052</td><td>http://www.gudianxiaoshuo.com</td><td>0</td><td/><td>354770226</td></row>
 		<row><td>ID_STRING3</td><td>2052</td><td>古典小说网</td><td>0</td><td/><td>-458906097</td></row>
 		<row><td>ID_STRING4</td><td>2052</td><td/><td>0</td><td/><td>-1130000848</td></row>
 		<row><td>ID_STRING5</td><td>2052</td><td>LAUNCH~1.EXE|Launch gif.exe</td><td>0</td><td/><td>-1130000848</td></row>
@@ -4402,8 +4412,10 @@
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>D:\biancheng\任性动图NEW\res\dongtu.ico</td><td>0</td></row>
 		<row><td>Shortcut.exe1_08C2245EE6004D408D1CCD312A815627.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图V8.0.exe</td><td>0</td></row>
+		<row><td>Shortcut.exe1_1E56F3A77B564C9A968E31EBC74025B0.exe</td><td/><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\任性动图v8.1.exe</td><td>0</td></row>
 		<row><td>Shortcut.exe1_3E24A99A47FB43D3B1F327750D18A2D5.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图V8.0.exe</td><td>0</td></row>
 		<row><td>Shortcut.exe1_6EA2F9C272A54158B475E9B7B15BE44D.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图.exe</td><td>0</td></row>
+		<row><td>Shortcut.exe_230D6D57766B442D8EAD1E05EFDCEB0F.exe</td><td/><td>D:\我的软件\任性动图\任性动图\任性动图V7.9\任性动图v8.1.exe</td><td>0</td></row>
 		<row><td>Shortcut.exe_92A625D41D054F51BF38FA16991B76EB.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图V8.0.exe</td><td>0</td></row>
 		<row><td>Shortcut.exe_99028101A39A4041B324C22AC7A22C34.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图V8.0.exe</td><td>0</td></row>
 		<row><td>Shortcut.exe_F1A1884D4BD3491990BD7AF612BBD43A.exe</td><td/><td>D:\我的软件\HomePage\任性动图\任性动图.exe</td><td>0</td></row>
@@ -4935,7 +4947,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[DATABASEDIR]homePage\homePage.exe</td><td/></row>
 		<row><td>ProductCode</td><td>{8FD4DB9E-190C-437D-833C-F584591D5438}</td><td/></row>
 		<row><td>ProductName</td><td>任性动图</td><td/></row>
-		<row><td>ProductVersion</td><td>8.0</td><td/></row>
+		<row><td>ProductVersion</td><td>8.1</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -5011,7 +5023,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="L255">FileName</col>
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
-		<row><td>Shortcut.exe</td><td>Component.exe</td><td/><td>newdirectory</td><td>2</td></row>
+		<row><td>Shortcut.exe</td><td>Component.exe1</td><td/><td>newdirectory</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -5097,8 +5109,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Shortcut.exe</td><td>newdirectory</td><td>##IDS_SHORTCUT_DISPLAY_NAME21##</td><td>Component.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Shortcut.exe_F1A1884D4BD3491990BD7AF612BBD43A.exe</td><td>1</td><td>1</td><td>DIRECTORY5</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>Shortcut.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME21##</td><td>Component.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Shortcut.exe1_6EA2F9C272A54158B475E9B7B15BE44D.exe</td><td>1</td><td>1</td><td>DIRECTORY5</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>Shortcut.exe</td><td>newdirectory</td><td>##IDS_SHORTCUT_DISPLAY_NAME22##</td><td>Component.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>Shortcut.exe_230D6D57766B442D8EAD1E05EFDCEB0F.exe</td><td>1</td><td>1</td><td>DIRECTORY5</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>Shortcut.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME22##</td><td>Component.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>Shortcut.exe1_1E56F3A77B564C9A968E31EBC74025B0.exe</td><td>1</td><td>1</td><td>DIRECTORY5</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
